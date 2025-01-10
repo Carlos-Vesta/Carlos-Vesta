@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de TI com paixão por desenvolvimento web. Proficiente em HTML, CSS, JavaScript, Bootstrap, WordPress e Git. Tenho experiência em design com Adobe XD, Photoshop e Illustrator. Sou entusiasta de Linux e busco sempre me aprofundar em novas tecnologias.
+<p sytle="text-align: justify;">Estudante de Tecnologia de Informação e Comunicação com paixão por desenvolvimento Web. Proficiente em HTML, CSS, JavaScript, Bootstrap, WordPress e Git. Tenho experiência em design com Adobe XD, Photoshop e Illustrator. Sou entusiasta de Linux e busco sempre me aprofundar em novas tecnologias.</p>
 
 
 # 💻 Tech Stack:
